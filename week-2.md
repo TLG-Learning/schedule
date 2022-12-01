@@ -39,6 +39,8 @@
       </td>
     </tr>
      <tr>
+     <td></td>
+        <td></td>
       <td><a href="#">Arrays</a>
       </td>
       <td><a href="#">Arrays Assignment</a>
@@ -57,6 +59,8 @@
       </td>
     </tr>
     <tr>
+      <td></td>
+        <td></td>
       <td><a href="#">Objects</a>
       </td>
       <td><a href="#">Objects Assignment</a>
@@ -75,6 +79,8 @@
       </td>
     </tr>
     <tr>
+      <td></td>
+        <td></td>
       <td><a href="#">Loops</a>
       </td>
       <td><a href="#">Loops Assignment</a>
@@ -114,6 +120,8 @@
       </td>
     </tr>
     <tr>
+      <td></td>
+        <td></td>
       <td><a href="#">Intro to DOM</a>
       </td>
       <td><a href="#">Intro to DOM Assignment</a>
@@ -132,6 +140,8 @@
       </td>
     </tr>
     <tr>
+      <td></td>
+        <td></td>
       <td><a href="#">JavaScript DOM Modifying</a>
       </td>
       <td><a href="#">JavaScript DOM Modifying Assignment</a>
@@ -150,6 +160,8 @@
       </td>
     </tr>
     <tr>
+      <td></td>
+        <td></td>
       <td><a href="#">JavaScript DOM Events</a>
       </td>
       <td><a href="#">JavaScript DOM Events Assignment</a>
