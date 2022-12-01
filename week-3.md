@@ -152,6 +152,8 @@
       </td>
     </tr>
     <tr>
+    <td></td>
+    <td></td>
       <td><a href="#">JQuery</a>
       </td>
       <td><a href="#">JQuery Assignment</a>
@@ -209,6 +211,8 @@
       </td>
     </tr>
     <tr>
+    <td></td>
+    <td></td>
       <td><a href="#">APIS</a>
       </td>
       <td><a href="#">APIS Assignment</a>
