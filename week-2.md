@@ -77,7 +77,6 @@
       </td>
     </tr>
     <tr>
-      </td>
       <td><a href="#">Loops</a>
       </td>
       <td><a href="#">Loops Assignment</a>
