@@ -27,7 +27,7 @@
       </td>
          <td><a href="#">Group Activity</a>
       </td>
-      <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #1</a></td>
       <td><a href="#">Activity #2</a></td>
       <td><a href="#">JS Calculator</a>
       </td>
@@ -46,7 +46,7 @@
       </td>
          <td><a href="#">Group Activity</a>
       </td>
-       <td><a href="#">Activity #1</a>
+       <td><a href="#">Activity #1</a></td>
       <td><a href="#">Activity #2</a></td>
       <td><a href="#">JS Calculator</a>
       </td>
@@ -64,7 +64,7 @@
       </td>
          <td><a href="#">Group Activity</a>
       </td>
-       <td><a href="#">Activity #1</a>
+       <td><a href="#">Activity #1</a></td>
       <td><a href="#">Activity #2</a></td>
       <td><a href="#">JS Calculator</a>
       </td>
@@ -82,7 +82,7 @@
       </td>
          <td><a href="#">Group Activity</a>
       </td>
-       <td><a href="#">Activity #1</a>
+       <td><a href="#">Activity #1</a></td>
       <td><a href="#">Activity #2</a></td>
       <td><a href="#">JS Calculator</a>
       </td>
@@ -103,7 +103,7 @@
       </td>
          <td><a href="#">Group Activity</a>
       </td>
-       <td><a href="#">Activity #1</a>
+       <td><a href="#">Activity #1</a></td>
       <td><a href="#">Activity #2</a></td>
       <td><a href="#">JS Calculator</a>
       </td>
@@ -121,7 +121,7 @@
       </td>
          <td><a href="#">Group Activity</a>
       </td>
-       <td><a href="#">Activity #1</a>
+       <td><a href="#">Activity #1</a></td>
       <td><a href="#">Activity #2</a></td>
       <td><a href="#">JS Calculator</a>
       </td>
@@ -139,7 +139,7 @@
       </td>
          <td><a href="#">Group Activity</a>
       </td>
-       <td><a href="#">Activity #1</a>
+       <td><a href="#">Activity #1</a></td>
       <td><a href="#">Activity #2</a></td>
       <td><a href="#">JS Calculator</a>
       </td>
@@ -157,7 +157,7 @@
       </td>
          <td><a href="#">Group Activity</a>
       </td>
-       <td><a href="#">Activity #1</a>
+       <td><a href="#">Activity #1</a></td>
       <td><a href="#">Activity #2</a></td>
       <td><a href="#">JS Calculator</a>
       </td>
