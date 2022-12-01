@@ -18,8 +18,8 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3">Thursday</td>
-      <td rowspan="3"><a href="https://www.codewars.com/kata/60908bc1d5811f0025474291">Find Squares</a>
+      <td>Thursday</td>
+      <td><a href="https://www.codewars.com/kata/60908bc1d5811f0025474291">Find Squares</a>
       </td>
       <td><a href="#">Functions</a>
       </td>
@@ -61,7 +61,7 @@
       </td>
       <td><a href="#">Objects Assignment</a>
       </td>
-         <td><a href="#">Group Activity</a>
+        <td><a href="#">Group Activity</a>
       </td>
        <td><a href="#">Activity #1</a></td>
       <td><a href="#">Activity #2</a></td>
@@ -93,8 +93,8 @@
       </td>
     </tr>
     <tr>
-      <td rowspan="3">Friday</td>
-      <td rowspan="3"><a href="https://www.codewars.com/kata/5282b48bb70058e4c4000fa7">Convert A Hex String To RGB</a>
+      <td>Friday</td>
+      <td><a href="https://www.codewars.com/kata/5282b48bb70058e4c4000fa7">Convert A Hex String To RGB</a>
       </td>
       <td><a href="#">Callbacks</a>
       </td>
