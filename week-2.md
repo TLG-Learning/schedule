@@ -12,18 +12,18 @@
       <th>Activity #2</th>
       <th>Stretch</th>
       <th>Supplemental #1</th>
-      <th>Supplemental #1</th>
-      <th>Supplemental #1</th>
+      <th>Supplemental #2</th>
+      <th>Supplemental #3</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td rowspan="3">Thursday</td>
-      <td rowspan="3"><a href="#">Name of Warm Up Activity #1</a>
+      <td rowspan="3"><a href="https://www.codewars.com/kata/60908bc1d5811f0025474291">Find Squares</a>
       </td>
-      <td><a href="#">Loops</a>
+      <td><a href="#">Functions</a>
       </td>
-      <td><a href="#">Loops Assignment</a>
+      <td><a href="#">Functions Assignment</a>
       </td>
          <td><a href="#">Group Activity</a>
       </td>
@@ -78,9 +78,9 @@
     </tr>
     <tr>
       </td>
-      <td><a href="#">Functions</a>
+      <td><a href="#">Loops</a>
       </td>
-      <td><a href="#">Functions Assignment</a>
+      <td><a href="#">Loops Assignment</a>
       </td>
          <td><a href="#">Group Activity</a>
       </td>
@@ -97,7 +97,7 @@
     </tr>
     <tr>
       <td rowspan="3">Friday</td>
-      <td rowspan="3"><a href="#">Name of Warm Up Activity #1</a>
+      <td rowspan="3"><a href="https://www.codewars.com/kata/5282b48bb70058e4c4000fa7">Convert A Hex String To RGB</a>
       </td>
       <td><a href="#">Callbacks</a>
       </td>

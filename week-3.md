@@ -12,8 +12,8 @@
       <th>Activity #2</th>
       <th>Stretch</th>
       <th>Supplemental #1</th>
-      <th>Supplemental #1</th>
-      <th>Supplemental #1</th>
+      <th>Supplemental #2</th>
+      <th>Supplemental #3</th>
     </tr>
   </thead>
   <tbody>
