@@ -75,6 +75,8 @@
       </td>
     </tr>
     <tr>
+    <td></td>
+    <td></td>
       <td><a href="#">Style Guide & Best Practices</a>
       </td>
       <td><a href="#">Style Guide & Best Practices Assignment</a>
@@ -92,7 +94,6 @@
        <td><a href="#">Supplemental Link #3</a>
       </td>
     </tr>
-    <tr>
     <tr>
       <td rowspan="3">Tuesday</td>
       <td rowspan="3"><a href="#">Name of Warm Up Activity #1</a>
@@ -169,7 +170,6 @@
       </td>
     </tr>
     <tr>
-    <tr>
       <td rowspan="3">Wednesday</td>
       <td rowspan="3"><a href="#">Name of Warm Up Activity #1</a>
       </td>
@@ -244,7 +244,6 @@
        <td><a href="#">Supplemental Link #3</a>
       </td>
     </tr>
-    <tr>
     <tr>
       <td rowspan="3">Thursday</td>
       <td rowspan="3"><a href="#">Name of Warm Up Activity #1</a>
