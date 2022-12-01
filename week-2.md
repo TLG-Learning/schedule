@@ -58,7 +58,6 @@
       </td>
     </tr>
     <tr>
-    <tr>
       <td><a href="#">Objects</a>
       </td>
       <td><a href="#">Objects Assignment</a>
@@ -116,7 +115,6 @@
       </td>
     </tr>
     <tr>
-    <tr>
       <td><a href="#">Intro to DOM</a>
       </td>
       <td><a href="#">Intro to DOM Assignment</a>
@@ -135,7 +133,6 @@
       </td>
     </tr>
     <tr>
-    <tr>
       <td><a href="#">JavaScript DOM Modifying</a>
       </td>
       <td><a href="#">JavaScript DOM Modifying Assignment</a>
@@ -153,7 +150,6 @@
        <td><a href="#">Supplemental Link #3</a>
       </td>
     </tr>
-    <tr>
     <tr>
       <td><a href="#">JavaScript DOM Events</a>
       </td>
