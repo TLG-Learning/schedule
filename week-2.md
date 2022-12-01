@@ -5,107 +5,52 @@
     <tr>
       <th>Day</th>
       <th>Warmup</th>
-      <th>Article</th>
+      <th>Subject</th>
       <th>Assignment</th>
+      <th>Group</th>
       <th>Stretch</th>
+      <th>Supplemental #1</th>
+      <th>Supplemental #1</th>
+      <th>Supplemental #1</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3">Monday</td>
+      <td rowspan="3">Thursday</td>
       <td rowspan="3"><a href="#">Name of Warm Up Activity #1</a>
       </td>
-      <td><a href="#">Name of Article #1</a>
+      <td><a href="#">Loops</a>
       </td>
-      <td>
+      <td><a href="#">Loops Assignment</a>
       </td>
-      <td>
+         <td><a href="#">Group Activity</a>
       </td>
-    </tr>
-    <tr>
-      <td><a href="#">Name of Article #2</a>
+      <td><a href="#">JS Calculator</a>
       </td>
-      <td>
+       <td><a href="#">Supplemental Link #1</a>
       </td>
-      <td>
+       <td><a href="#">Supplemental Link #2</a>
       </td>
-    </tr>
-    <tr>
-      <td><a href="#">Name of Article #3</a>
-      </td>
-      <td><a href="#">Assignment Name</a>
-      </td>
-      <td>
+       <td><a href="#">Supplemental Link #3</a>
       </td>
     </tr>
     <tr>
-      <td rowspan="4">Tuesday</td>
-      <td rowspan="4">
       </td>
-      <td><a href="#">Assignment Name</a></td>
-      <td><a href="#">Assignment Name</a></td>
+      <td><a href="#">Arrays</a>
       </td>
-      <td><a href="#">Assignment Name</a></td>
+      <td><a href="#">Arrays Assignment</a>
       </td>
-    </tr>
-    <tr>
-      <td><a href="#">Assignment Name</a></td>
-     <td><a href="#">Assignment Name</a></td>
-        <td><a href="#">Assignment Name</a></td>
-    </tr>
-    <tr>
-         <td><a href="#">Assignment Name</a></td>
-        <td><a href="#">Assignment Name</a></td>
-      <td>
+         <td><a href="#">Group Activity</a>
+      </td>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
       </td>
     </tr>
-    <tr>
-        <td><a href="#">Assignment Name</a></td>
-      <td>
-      </td>
-         <td><a href="#">Assignment Name</a></td>
-    </tr>
-    <tr>
-      <td rowspan="4">Wednesday</td>
-        <td><a href="#">Assignment Name</a></td>
-         <td><a href="#">Assignment Name</a></td>
-         <td><a href="#">Assignment Name</a></td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-         <td><a href="#">Assignment Name</a></td>
-      <td>
-      </td>
-         <td><a href="#">Assignment Name</a></td>
-    </tr>
-    <tr>
-         <td><a href="#">Assignment Name</a></td>
-      <td>
-      </td>
-        <td><a href="#">Assignment Name</a></td>
-    </tr>
-    <tr>
-         <td><a href="#">Assignment Name</a></td>
-      <td>
-      </td>
-         <td><a href="#">Assignment Name</a></td>
-    </tr>
-    <tr>
-      <td rowspan="1">Thursday</td>
-        <td><a href="#">Assignment Name</a></td>
-        <td><a href="#">Assignment Name</a></td>
-         <td><a href="#">Assignment Name</a></td>
-        <td><a href="#">Assignment Name</a></td>
-    </tr>
-    <tr>
-      <td rowspan="1">Friday</td>
-         <td><a href="#">Assignment Name</a></td>
-      <td>
-      </td>
-        <td><a href="#">Assignment Name</a></td>
-      <td>
-      </td>
-    </tr>
+
   </tbody>
 </table>
