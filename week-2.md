@@ -38,7 +38,6 @@
        <td><a href="#">Supplemental Link #3</a>
       </td>
     </tr>
-    <tr>
      <tr>
       <td><a href="#">Arrays</a>
       </td>
