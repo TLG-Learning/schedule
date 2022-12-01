@@ -39,7 +39,6 @@
       </td>
     </tr>
     <tr>
-      </td>
       <td><a href="#">JavaScript Error Handling & Testing</a>
       </td>
       <td><a href="#">JavaScript Error Handling & Testing Assignment</a>
@@ -58,7 +57,6 @@
       </td>
     </tr>
     <tr>
-      </td>
       <td><a href="#">ES2015</a>
       </td>
       <td><a href="#">ES2015 Assignment</a>
@@ -77,7 +75,6 @@
       </td>
     </tr>
     <tr>
-      </td>
       <td><a href="#">Style Guide & Best Practices</a>
       </td>
       <td><a href="#">Style Guide & Best Practices Assignment</a>
@@ -118,7 +115,6 @@
       </td>
     </tr>
     <tr>
-      </td>
       <td><a href="#">JavaScript - OOP</a>
       </td>
       <td><a href="#">JavaScript - OOP Assignment</a>
@@ -137,7 +133,6 @@
       </td>
     </tr>
     <tr>
-      </td>
       <td><a href="#">JavaScript - this</a>
       </td>
       <td><a href="#">JavaScript - this Assignment</a>
@@ -156,7 +151,6 @@
       </td>
     </tr>
     <tr>
-      </td>
       <td><a href="#">JQuery</a>
       </td>
       <td><a href="#">JQuery Assignment</a>
@@ -197,7 +191,6 @@
       </td>
     </tr>
     <tr>
-      </td>
       <td><a href="#">AJAX</a>
       </td>
       <td><a href="#">AJAX Assignment</a>
@@ -216,7 +209,6 @@
       </td>
     </tr>
     <tr>
-      </td>
       <td><a href="#">APIS</a>
       </td>
       <td><a href="#">APIS Assignment</a>
@@ -235,7 +227,6 @@
       </td>
     </tr>
     <tr>
-      </td>
       <td><a href="#">APIS Assignment #2</a>
       </td>
       <td><a href="#">APIS Assignment #2 Assignment</a>
@@ -276,7 +267,6 @@
       </td>
     </tr>
     <tr>
-      </td>
       <td><a href="#">React #2</a>
       </td>
       <td><a href="#">React #2 Assignment</a>
@@ -295,7 +285,6 @@
       </td>
     </tr>
     <tr>
-      </td>
       <td><a href="#">React #3</a>
       </td>
       <td><a href="#">React #3 Assignment</a>
@@ -314,7 +303,6 @@
       </td>
     </tr>
     <tr>
-      </td>
       <td><a href="#">React #4</a>
       </td>
       <td><a href="#">React #4 Assignment</a>
@@ -354,7 +342,6 @@
       </td>
     </tr>
     <tr>
-      </td>
       <td><a href="#">Express</a>
       </td>
       <td><a href="#">Express Assignment</a>
@@ -373,7 +360,6 @@
       </td>
     </tr>
     <tr>
-      </td>
       <td><a href="#">MongoDB</a>
       </td>
       <td><a href="#">MongoDB Assignment</a>
