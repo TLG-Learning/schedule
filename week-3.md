@@ -1,110 +1,394 @@
-# Quarter 1 - Week 1
+# Quarter 1 - Week 3
 
 <table style="width: 100%">
   <thead>
     <tr>
       <th>Day</th>
       <th>Warmup</th>
-      <th>Article</th>
+      <th>Subject</th>
       <th>Assignment</th>
+      <th>Group</th>
+      <th>Activity #1</th>
+      <th>Activity #2</th>
       <th>Stretch</th>
+      <th>Supplemental #1</th>
+      <th>Supplemental #1</th>
+      <th>Supplemental #1</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
+      <tr>
       <td rowspan="3">Monday</td>
       <td rowspan="3"><a href="#">Name of Warm Up Activity #1</a>
       </td>
-      <td><a href="#">Name of Article #1</a>
+      <td><a href="#">JavaScript Chrome Dev Tool</a>
       </td>
-      <td>
+      <td><a href="#">JavaScript Chrome Dev Tool Assignment</a>
       </td>
-      <td>
+         <td><a href="#">Group Activity</a>
       </td>
-    </tr>
-    <tr>
-      <td><a href="#">Name of Article #2</a>
+      <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
       </td>
-      <td>
+       <td><a href="#">Supplemental Link #1</a>
       </td>
-      <td>
+       <td><a href="#">Supplemental Link #2</a>
       </td>
-    </tr>
-    <tr>
-      <td><a href="#">Name of Article #3</a>
-      </td>
-      <td><a href="#">Assignment Name</a>
-      </td>
-      <td>
+       <td><a href="#">Supplemental Link #3</a>
       </td>
     </tr>
     <tr>
-      <td rowspan="4">Tuesday</td>
-      <td rowspan="4">
       </td>
-      <td><a href="#">Assignment Name</a></td>
-      <td><a href="#">Assignment Name</a></td>
+      <td><a href="#">JavaScript Error Handling & Testing</a>
       </td>
-      <td><a href="#">Assignment Name</a></td>
+      <td><a href="#">JavaScript Error Handling & Testing Assignment</a>
       </td>
-    </tr>
-    <tr>
-      <td><a href="#">Assignment Name</a></td>
-     <td><a href="#">Assignment Name</a></td>
-        <td><a href="#">Assignment Name</a></td>
-    </tr>
-    <tr>
-         <td><a href="#">Assignment Name</a></td>
-        <td><a href="#">Assignment Name</a></td>
-      <td>
+         <td><a href="#">Group Activity</a>
+      </td>
+       <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
       </td>
     </tr>
     <tr>
-        <td><a href="#">Assignment Name</a></td>
-      <td>
       </td>
-         <td><a href="#">Assignment Name</a></td>
+      <td><a href="#">ES2015</a>
+      </td>
+      <td><a href="#">ES2015 Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+       <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
+      </td>
     </tr>
     <tr>
-      <td rowspan="4">Wednesday</td>
-        <td><a href="#">Assignment Name</a></td>
-         <td><a href="#">Assignment Name</a></td>
-         <td><a href="#">Assignment Name</a></td>
-      <td>
+      </td>
+      <td><a href="#">Style Guide & Best Practices</a>
+      </td>
+      <td><a href="#">Style Guide & Best Practices Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+       <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
       </td>
     </tr>
     <tr>
-         <td><a href="#">Assignment Name</a></td>
-      <td>
+    <tr>
+      <td rowspan="3">Tuesday</td>
+      <td rowspan="3"><a href="#">Name of Warm Up Activity #1</a>
       </td>
-         <td><a href="#">Assignment Name</a></td>
+      <td><a href="#">JavaScript Debugger & Sources Tab</a>
+      </td>
+      <td><a href="#">JavaScript Debugger & Sources Tab Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+      <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
+      </td>
     </tr>
     <tr>
-         <td><a href="#">Assignment Name</a></td>
-      <td>
       </td>
-        <td><a href="#">Assignment Name</a></td>
+      <td><a href="#">JavaScript - OOP</a>
+      </td>
+      <td><a href="#">JavaScript - OOP Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+       <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
+      </td>
     </tr>
     <tr>
-         <td><a href="#">Assignment Name</a></td>
-      <td>
       </td>
-         <td><a href="#">Assignment Name</a></td>
+      <td><a href="#">JavaScript - this</a>
+      </td>
+      <td><a href="#">JavaScript - this Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+       <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
+      </td>
     </tr>
     <tr>
-      <td rowspan="1">Thursday</td>
-        <td><a href="#">Assignment Name</a></td>
-        <td><a href="#">Assignment Name</a></td>
-         <td><a href="#">Assignment Name</a></td>
-        <td><a href="#">Assignment Name</a></td>
+      </td>
+      <td><a href="#">JQuery</a>
+      </td>
+      <td><a href="#">JQuery Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+       <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
+      </td>
     </tr>
     <tr>
-      <td rowspan="1">Friday</td>
-         <td><a href="#">Assignment Name</a></td>
-      <td>
+    <tr>
+      <td rowspan="3">Wednesday</td>
+      <td rowspan="3"><a href="#">Name of Warm Up Activity #1</a>
       </td>
-        <td><a href="#">Assignment Name</a></td>
-      <td>
+      <td><a href="#">How The Web Works</a>
+      </td>
+      <td><a href="#">How The Web Works Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+      <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
+      </td>
+    </tr>
+    <tr>
+      </td>
+      <td><a href="#">AJAX</a>
+      </td>
+      <td><a href="#">AJAX Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+       <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
+      </td>
+    </tr>
+    <tr>
+      </td>
+      <td><a href="#">APIS</a>
+      </td>
+      <td><a href="#">APIS Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+       <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
+      </td>
+    </tr>
+    <tr>
+      </td>
+      <td><a href="#">APIS Assignment #2</a>
+      </td>
+      <td><a href="#">APIS Assignment #2 Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+       <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
+      </td>
+    </tr>
+    <tr>
+    <tr>
+      <td rowspan="3">Thursday</td>
+      <td rowspan="3"><a href="#">Name of Warm Up Activity #1</a>
+      </td>
+      <td><a href="#">Intro to React</a>
+      </td>
+      <td><a href="#">Intro to React Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+      <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
+      </td>
+    </tr>
+    <tr>
+      </td>
+      <td><a href="#">React #2</a>
+      </td>
+      <td><a href="#">React #2 Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+       <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
+      </td>
+    </tr>
+    <tr>
+      </td>
+      <td><a href="#">React #3</a>
+      </td>
+      <td><a href="#">React #3 Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+       <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
+      </td>
+    </tr>
+    <tr>
+      </td>
+      <td><a href="#">React #4</a>
+      </td>
+      <td><a href="#">React #4 Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+       <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="3">Friday</td>
+      <td rowspan="3"><a href="#">Name of Warm Up Activity #1</a>
+      </td>
+      <td><a href="#">Node Server</a>
+      </td>
+      <td><a href="#">Node Server Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+       <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
+      </td>
+    </tr>
+    <tr>
+      </td>
+      <td><a href="#">Express</a>
+      </td>
+      <td><a href="#">Express Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+       <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
+      </td>
+    </tr>
+    <tr>
+      </td>
+      <td><a href="#">MongoDB</a>
+      </td>
+      <td><a href="#">MongoDB Assignment</a>
+      </td>
+         <td><a href="#">Group Activity</a>
+      </td>
+       <td><a href="#">Activity #1</a>
+      <td><a href="#">Activity #2</a>
+      <td><a href="#">JS Calculator</a>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
       </td>
     </tr>
   </tbody>
