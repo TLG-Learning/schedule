@@ -36,7 +36,7 @@
        <td><a href="#">Supplemental Link #2</a>
       </td>
        <td><a href="#">Supplemental Link #3</a>
-     <tr>
+      </td>
       <td><a href="#">JavaScript DOM Events</a>
       </td>
       <td><a href="#">JavaScript DOM Events Assignment</a>
@@ -49,8 +49,6 @@
        <td><a href="#">Supplemental Link #2</a>
       </td>
        <td><a href="#">Supplemental Link #3</a>
-      </td>
-    <tr>
       </td>
     </tr>
       <td><a href="#">JavaScript Error Handling & Testing</a>
