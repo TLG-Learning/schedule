@@ -18,9 +18,10 @@
   </thead>
   <tbody>
       <tr>
-      <td rowspan="3">Monday</td>
-      <td rowspan="3"><a href="#">Name of Warm Up Activity #1</a>
+      <td rowspan="4">Monday</td>
+      <td rowspan="4"><a href="#">Name of Warm Up Activity #1</a>
       </td>
+      <tr>
       <td><a href="#">JavaScript Chrome Dev Tool</a>
       </td>
       <td><a href="#">JavaScript Chrome Dev Tool Assignment</a>
@@ -37,6 +38,8 @@
       </td>
        <td><a href="#">Supplemental Link #3</a>
       </td>
+      <tr>
+      <tr>
       <td><a href="#">JavaScript DOM Events</a>
       </td>
       <td><a href="#">JavaScript DOM Events Assignment</a>
@@ -50,27 +53,26 @@
       </td>
        <td><a href="#">Supplemental Link #3</a>
       </td>
-    </tr>
-      <td><a href="#">JavaScript Error Handling & Testing</a>
-      </td>
-      <td><a href="#">JavaScript Error Handling & Testing Assignment</a>
-      </td>
-         <td><a href="#">Group Activity</a>
-      </td>
-       <td><a href="#">Activity #1</a></td>
-      <td><a href="#">Activity #2</a></td>
-      <td><a href="#">JS Calculator</a>
-      </td>
-       <td><a href="#">Supplemental Link #1</a>
-      </td>
-       <td><a href="#">Supplemental Link #2</a>
-      </td>
-       <td><a href="#">Supplemental Link #3</a>
-      </td>
-    </tr>
+      </tr>
+      <tr>
+        <td><a href="#">JavaScript Error Handling & Testing</a>
+        </td>
+        <td><a href="#">JavaScript Error Handling & Testing Assignment</a>
+        </td>
+          <td><a href="#">Group Activity</a>
+        </td>
+        <td><a href="#">Activity #1</a></td>
+        <td><a href="#">Activity #2</a></td>
+        <td><a href="#">JS Calculator</a>
+        </td>
+        <td><a href="#">Supplemental Link #1</a>
+        </td>
+        <td><a href="#">Supplemental Link #2</a>
+        </td>
+        <td><a href="#">Supplemental Link #3</a>
+        </td>
+      </tr>
     <tr>
-    <td></td>
-    <td></td>
       <td><a href="#">ES2015</a>
       </td>
       <td><a href="#">ES2015 Assignment</a>
