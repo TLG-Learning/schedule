@@ -26,8 +26,12 @@
       </td>
       <td><a href="#">JavaScript DOM Events Assignment</a>
       </td>
+          </td>
+        <td><a href="#">Group Activity</a>
+      </td>
       <td><a href="#">Meme Generator</a></td>
       <td><a href="#">Memory Game</a></td>
+      <td><a href="#">JS Calculator</a>
       </td>
       <td><a href="#">Supplemental Link #1</a>
       </td>
