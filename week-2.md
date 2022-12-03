@@ -86,14 +86,14 @@
     </tr>
     <tr>
       <td>Friday</td>
-      <td><a href="https://www.codewars.com/kata/5282b48bb70058e4c4000fa7">Convert A Hex String To RGB</a>
+      <td><a href="#">Rock, Papers, Scissors</a>
       </td>
       <td><a href="#">Callbacks</a>
       </td>
       <td><a href="#">Callbacks Assignment</a>
       </td>
-       <td><a href="#">Activity #1</a></td>
-      <td><a href="#">Activity #2</a></td>
+       <td><a href="#">Action Creators #1</a></td>
+      <td><a href="#">Map, Reduce, Filter with callbacks #2</a></td>
       </td>
        <td><a href="#">Supplemental Link #1</a>
       </td>
@@ -109,10 +109,10 @@
       </td>
       <td><a href="#">Intro to DOM Assignment</a>
       </td>
-       <td><a href="#">Activity #1</a></td>
-      <td><a href="#">Activity #2</a></td>
+       <td><a href="#">None</a></td>
+      <td><a href="#">None</a></td>
       </td>
-       <td><a href="#">Supplemental Link #1</a>
+       <td><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction">Intro to DOM MDN</a>
       </td>
        <td><a href="#">Supplemental Link #2</a>
       </td>
@@ -126,10 +126,10 @@
       </td>
       <td><a href="#">JavaScript DOM Modifying Assignment</a>
       </td>
-       <td><a href="#">Activity #1</a></td>
-      <td><a href="#">Activity #2</a></td>
+       <td><a href="#">DOM Manipulation Exercise</a></td>
+      <td><a href="#">Dynamically Add Card to Web Page</a></td>
       </td>
-       <td><a href="#">Supplemental Link #1</a>
+       <td><a href="https://stackoverflow.com/questions/47945659/using-innerhtml-and-what-are-security-concerns">InnerHTML Security Issue Stack Overflow</a>
       </td>
        <td><a href="#">Supplemental Link #2</a>
       </td>
@@ -143,8 +143,8 @@
       </td>
       <td><a href="#">JavaScript DOM Events Assignment</a>
       </td>
-       <td><a href="#">Activity #1</a></td>
-      <td><a href="#">Activity #2</a></td>
+       <td><a href="#">Meme Generator</a></td>
+      <td><a href="#">Memory Game</a></td>
       </td>
        <td><a href="#">Supplemental Link #1</a>
       </td>
