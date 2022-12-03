@@ -193,6 +193,8 @@
       </td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
       <td><a href="#">AJAX</a>
       </td>
       <td><a href="#">AJAX Assignment</a>
@@ -211,6 +213,8 @@
       </td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
       <td><a href="#">APIS</a>
       </td>
       <td><a href="#">APIS Assignment</a>
