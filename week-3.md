@@ -39,8 +39,6 @@
       </td>
     </tr>
      <tr>
-      <td></td>
-        <td></td>
       <td><a href="#">JavaScript DOM Events</a>
       </td>
       <td><a href="#">JavaScript DOM Events Assignment</a>
