@@ -4,7 +4,7 @@
   <thead>
     <tr>
       <th>Day</th>
-      <th>Warmup</th>
+      <th>Warmup / Review</th>
       <th>Subject</th>
       <th>Assignment</th>
       <th>Group</th>
@@ -19,7 +19,7 @@
   <tbody>
       <tr>
       <td rowspan="4">Monday</td>
-      <td rowspan="4"><a href="#">Name of Warm Up Activity #1</a>
+      <td rowspan="4"><a href="#">Build A Timer</a>,<a href="#">Set LocalStorage</a>
       </td>
       <tr>
       <td><a href="#">JavaScript DOM Events</a>
@@ -33,11 +33,11 @@
       <td><a href="#">Memory Game</a></td>
       <td><a href="#">JS Calculator</a>
       </td>
-      <td><a href="#">Supplemental Link #1</a>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events">MDN Event Listeners</a>
       </td>
-      <td><a href="#">Supplemental Link #2</a>
+      <td><a href="https://www.freecodecamp.org/news/javascript-addeventlistener-example-code/">Event Listeners FreeCodeCamp</a>
       </td>
-      <td><a href="#">Supplemental Link #3</a>
+      <td><a href="https://eloquentjavascript.net/15_event.html">Handling Events - Chapter 15 - Eloquent JavaScript</a>
       </td>
       </tr>
       <tr>
