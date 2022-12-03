@@ -36,8 +36,6 @@
        <td><a href="#">Supplemental Link #2</a>
       </td>
        <td><a href="#">Supplemental Link #3</a>
-      </td>
-    </tr>
      <tr>
       <td><a href="#">JavaScript DOM Events</a>
       </td>
@@ -53,6 +51,8 @@
        <td><a href="#">Supplemental Link #3</a>
       </td>
     <tr>
+      </td>
+    </tr>
       <td><a href="#">JavaScript Error Handling & Testing</a>
       </td>
       <td><a href="#">JavaScript Error Handling & Testing Assignment</a>
@@ -71,6 +71,8 @@
       </td>
     </tr>
     <tr>
+    <td></td>
+    <td></td>
       <td><a href="#">ES2015</a>
       </td>
       <td><a href="#">ES2015 Assignment</a>
