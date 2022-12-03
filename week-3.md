@@ -172,8 +172,8 @@
       </td>
     </tr>
     <tr>
-      <td rowspan="3">Wednesday</td>
-      <td rowspan="3"><a href="#">Name of Warm Up Activity #1</a>
+      <td>Wednesday</td>
+      <td><a href="#">Name of Warm Up Activity #1</a>
       </td>
       <td><a href="#">How The Web Works</a>
       </td>
@@ -229,6 +229,8 @@
       </td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
       <td><a href="#">APIS Assignment #2</a>
       </td>
       <td><a href="#">APIS Assignment #2 Assignment</a>
@@ -237,8 +239,7 @@
       </td>
        <td><a href="#">Activity #1</a></td>
       <td><a href="#">Activity #2</a></td>
-      <td><a href="#">JS Calculator</a>
-      </td>
+      <td><a href="#">JS Calculator</a></td>
        <td><a href="#">Supplemental Link #1</a>
       </td>
        <td><a href="#">Supplemental Link #2</a>
