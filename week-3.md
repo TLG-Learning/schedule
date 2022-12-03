@@ -38,6 +38,22 @@
        <td><a href="#">Supplemental Link #3</a>
       </td>
     </tr>
+     <tr>
+      <td></td>
+        <td></td>
+      <td><a href="#">JavaScript DOM Events</a>
+      </td>
+      <td><a href="#">JavaScript DOM Events Assignment</a>
+      </td>
+       <td><a href="#">Meme Generator</a></td>
+      <td><a href="#">Memory Game</a></td>
+      </td>
+       <td><a href="#">Supplemental Link #1</a>
+      </td>
+       <td><a href="#">Supplemental Link #2</a>
+      </td>
+       <td><a href="#">Supplemental Link #3</a>
+      </td>
     <tr>
       <td><a href="#">JavaScript Error Handling & Testing</a>
       </td>
