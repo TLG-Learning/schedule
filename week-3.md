@@ -211,8 +211,6 @@
       </td>
     </tr>
     <tr>
-    <td></td>
-    <td></td>
       <td><a href="#">APIS</a>
       </td>
       <td><a href="#">APIS Assignment</a>
