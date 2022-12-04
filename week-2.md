@@ -4,11 +4,11 @@
   <thead>
     <tr>
       <th>Day</th>
-      <th>Warmup 20 Min</th>
-      <th>Subject 20 Min</th>
-      <th>Assignment 20 Min</th>
-      <th>Activity #1 20 Min</th>
-      <th>Activity #2 20 Min</th>
+      <th>Warmup</th>
+      <th>Subject</th>
+      <th>Assignment</th>
+      <th>Activity #1</th>
+      <th>Activity #2</th>
       <th>Supplemental #1</th>
       <th>Supplemental #2</th>
       <th>Supplemental #3</th>

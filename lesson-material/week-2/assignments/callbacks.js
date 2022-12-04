@@ -1,5 +1,7 @@
+// "use strict";
+
 // a callback that returns a transformed value
-const doubleNum = (num) => num * 2;
+doubleNum = (num) => num * 2;
 
 // create a function called map that takes an array and a callback that returns a new array of transformed items
 const map = (arr, callback) => {
