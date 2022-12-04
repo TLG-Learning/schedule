@@ -202,7 +202,7 @@
     </tr>
     <tr>
       <td>Friday</td>
-      <td><a href="#">MERN Stack</a></td>
+      <td><a href="#">Final Project Review</a></td>
       <td><a href="#">MERN Stack Assignment</a></td>
       <td><a href="#">Announce Groups and Project Planning</a></td>
       <td><a href="https://medium.com/codingthesmartway-com-blog/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-2-637f337e5d61">MERN Stack Tutorial</a></td>
