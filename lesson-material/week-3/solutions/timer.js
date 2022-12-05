@@ -16,3 +16,13 @@ function stop() {
 
   timerId = null;
 }
+
+// add a reset
+
+// display time on minutes and seconds
+
+// set timeout example
+
+setTimeout(() => {
+  console.log("Print me in 3 seconds");
+}, 3000);
