@@ -1,4 +1,25 @@
-# Quarter 1 - Week 3
+# Quarter 1 - Week 4
+
+
+Basic web page setup
+A variety of web elements 
+Opening and closing tags
+Adding links
+Adding images
+Display vs block elements 
+CSS box model
+
+Variables in JavaScript let, var, constant
+Variable scoping
+Writing and call a function 
+Writing a function with parameters 
+Data types
+Objects
+Array
+Built in methods
+Querying the DOM
+Event listeners 
+
 
 <table style="width: 100%">
   <thead>
